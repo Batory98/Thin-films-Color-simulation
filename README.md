@@ -4,6 +4,7 @@ This repository contains a Python-based simulation tool to visualize the **color
 
 ## References
 If you find this code useful, please cite one of the following paper:
+
 '''
 Dongik Lee and Seunghun Lee, 
 '''
